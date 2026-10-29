@@ -12,9 +12,15 @@ Diffusion Week — серия онлайн-лекций о диффузионн�
 
 - [**Наш сайт**](https://dls.samcs.ru/)
 
+- [**Плейлист с записями лекций**](https://www.youtube.com/playlist?list=PLbDUOzR8qdp0)
+
 - [**Наш телеграм канал**](https://t.me/deep_learning_school_news)
 
 
+
+## Обратная связь
+
+👉 Поделитесь впечатлениями о лекциях: https://forms.gle/f3h4NsxcsaTGJxTC8
 
 ## Перед началом: пререквизиты
 
@@ -24,5 +30,6 @@ Diffusion Week — серия онлайн-лекций о диффузионн�
 
 | Lecture Title | Lecturer | Date | Video |  Tags  | Attachments |
 |--------------|-----------|------|-------------|-------------------|-------------------|
+| From Stable Diffusion to FLUX | Нина Коновалова | 28.10.2026 | <a href="https://youtu.be/Dk3mq1z1uJg"><img src="icons/youtube.svg" width="24" alt="Watch on YouTube"></a> <a href="https://vkvideo.ru/video-155161349_456239408"><img src="icons/vk.svg" width="24" alt="Watch on VK"></a> | `Diffusion` `Architectures` `Metrics` | [📊 Презентация](presentations/SD_to_FLUX_diffusion_week.pdf) ([pptx](presentations/SD_to_FLUX_diffusion_week.pptx)) |
 
-*Материалы появятся после лекций.*
+*Материалы следующих лекций появятся после их проведения.*
