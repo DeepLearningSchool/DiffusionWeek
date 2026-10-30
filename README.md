@@ -30,6 +30,7 @@ Diffusion Week — серия онлайн-лекций о диффузионн�
 
 | Lecture Title | Lecturer | Date | Video |  Tags  | Attachments |
 |--------------|-----------|------|-------------|-------------------|-------------------|
-| From Stable Diffusion to FLUX | Нина Коновалова | 28.10.2026 | <a href="https://youtu.be/Dk3mq1z1uJg"><img src="icons/youtube.svg" width="24" alt="Watch on YouTube"></a> <a href="https://vkvideo.ru/video-155161349_456239408"><img src="icons/vk.svg" width="24" alt="Watch on VK"></a> | `Diffusion` `Architectures` `Metrics` | [📊 Презентация](presentations/SD_to_FLUX_diffusion_week.pdf) ([pptx](presentations/SD_to_FLUX_diffusion_week.pptx)) |
+| From Stable Diffusion to FLUX | Нина Коновалова | 28.10.2026 | <a href="https://youtu.be/Dk3mq1z1uJg"><img src="icons/youtube.svg" width="24" alt="Watch on YouTube"></a> <a href="https://vkvideo.ru/video-155161349_456239408"><img src="icons/vk.svg" width="24" alt="Watch on VK"></a> | `Diffusion` `Architectures` `Metrics` | [📊 Презентация](presentations/01_from_sd_to_flux/SD_to_FLUX_diffusion_week.pdf) ([pptx](presentations/01_from_sd_to_flux/SD_to_FLUX_diffusion_week.pptx)) |
+| Image and Video Generation in 2026 | Константин Соболев | 29.10.2026 | <a href="https://youtu.be/2alx5SI3hWs"><img src="icons/youtube.svg" width="24" alt="Watch on YouTube"></a> <a href="https://vkvideo.ru/video-155161349_456239414"><img src="icons/vk.svg" width="24" alt="Watch on VK"></a> | `Diffusion` `Image Generation` `Video Generation` | [📊 Презентация](presentations/02_image_video_generation_2026/DLS_image_video_generation_2026.pdf) ([pptx](presentations/02_image_video_generation_2026/DLS_image_video_generation_2026.pptx)) |
 
 *Материалы следующих лекций появятся после их проведения.*
